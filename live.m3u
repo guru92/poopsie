@@ -1,0 +1,584 @@
+# poopsie
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   United Kingdom   ##########" tvg-logo="" group-title="United Kingdom",##########   United Kingdom   ##########
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1936.ts
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://195.154.221.171/picons/4sevenuk.png" group-title="United Kingdom",4Seven UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1937.ts
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5Star UK" tvg-logo="http://195.154.221.171/picons/5staruk.png" group-title="United Kingdom",5Star UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1963.ts
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://195.154.221.171/picons/5usauk.png" group-title="United Kingdom",5USA UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1964.ts
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC From BT UK" tvg-logo="http://195.154.221.171/picons/amcfrombtuk.png" group-title="United Kingdom",AMC From BT UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1892.ts
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="AT THE RACES UK" tvg-logo="http://195.154.221.171/picons/attheracesuk.png" group-title="United Kingdom",AT THE RACES UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1801.ts
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://195.154.221.171/picons/alibiuk.png" group-title="United Kingdom",Alibi UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1916.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://195.154.221.171/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1878.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://195.154.221.171/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1879.ts
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland FHD UK" tvg-logo="http://195.154.221.171/picons/bbconenorthernirelandhduk.png" group-title="United Kingdom",BBC One Northern Ireland FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2001.ts
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two FHD UK" tvg-logo="http://195.154.221.171/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1996.ts
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://195.154.221.171/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1995.ts
+#EXTINF:-1 tvg-id="BBC Two Scotland UK" tvg-name="BBC Two Scotland UK" tvg-logo="http://195.154.221.171/picons/bbctwoscotlanduk.png" group-title="United Kingdom",BBC Two Scotland UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2004.ts
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="http://195.154.221.171/picons/cbbchduk.png" group-title="United Kingdom",CBBC HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1993.ts
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://195.154.221.171/picons/bbcfourhduk.png" group-title="United Kingdom",BBC Four HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1990.ts
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://195.154.221.171/picons/bbcfouruk.png" group-title="United Kingdom",BBC Four UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1989.ts
+#EXTINF:-1 tvg-id="BBC ALBA UK" tvg-name="BBC ALBA UK" tvg-logo="http://195.154.221.171/picons/bbcalbauk.png" group-title="United Kingdom",BBC ALBA UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2005.ts
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News HD UK" tvg-logo="http://195.154.221.171/picons/bbcnewshduk.png" group-title="United Kingdom",BBC News HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1777.ts
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One FHD UK" tvg-logo="http://195.154.221.171/picons/bbconehduk.png" group-title="United Kingdom",BBC One FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1999.ts
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="http://195.154.221.171/picons/bbconehduk.png" group-title="United Kingdom",BBC One HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1998.ts
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland UK" tvg-logo="http://195.154.221.171/picons/bbconenorthernirelanduk.png" group-title="United Kingdom",BBC One Northern Ireland UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2000.ts
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One UK" tvg-logo="http://195.154.221.171/picons/bbconeuk.png" group-title="United Kingdom",BBC One UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1997.ts
+#EXTINF:-1 tvg-id="BBC One CI UK" tvg-name="BBC One Channel Islands UK" tvg-logo="http://195.154.221.171/picons/bbconechannelislandsuk.png" group-title="United Kingdom",BBC One Channel Islands UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1776.ts
+#EXTINF:-1 tvg-id="BBC One Oxford UK" tvg-name="BBC One Oxford UK" tvg-logo="http://195.154.221.171/picons/bbconeoxforduk.png" group-title="United Kingdom",BBC One Oxford UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1775.ts
+#EXTINF:-1 tvg-id="BBC One Scot UK" tvg-name="BBC One Scotland UK" tvg-logo="http://195.154.221.171/picons/bbconescotlanduk.png" group-title="United Kingdom",BBC One Scotland UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1786.ts
+#EXTINF:-1 tvg-id="BBC One Wales UK" tvg-name="BBC One Wales UK" tvg-logo="http://195.154.221.171/picons/bbconewalesuk.png" group-title="United Kingdom",BBC One Wales UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2002.ts
+#EXTINF:-1 tvg-id="BBC One Yorks UK" tvg-name="BBC One Yorks UK" tvg-logo="http://195.154.221.171/picons/bbconeyorksuk.png" group-title="United Kingdom",BBC One Yorks UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1774.ts
+#EXTINF:-1 tvg-id="BBC Parliament UK" tvg-name="BBC Parliament UK" tvg-logo="http://195.154.221.171/picons/bbcparliamentuk.png" group-title="United Kingdom",BBC Parliament UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2003.ts
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC UK" tvg-logo="http://195.154.221.171/picons/cbbcuk.png" group-title="United Kingdom",CBBC UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1991.ts
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://195.154.221.171/picons/bbctwouk.png" group-title="United Kingdom",BBC Two UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1994.ts
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="http://195.154.221.171/picons/bbcworldnewsuk.png" group-title="United Kingdom",BBC World News UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/2006.ts
+#EXTINF:-1 tvg-id="be3 UK" tvg-name="be3 UK" tvg-logo="http://195.154.221.171/picons/be3uk.png" group-title="United Kingdom",be3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1948.ts
+#EXTINF:-1 tvg-id="BET UK" tvg-name="BET UK" tvg-logo="http://195.154.221.171/picons/betuk.png" group-title="United Kingdom",BET UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1961.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://195.154.221.171/picons/btsport1hduk.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/370.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://195.154.221.171/picons/btsport1uk.png" group-title="United Kingdom",BT Sport 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/369.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://195.154.221.171/picons/btsport2hduk.png" group-title="United Kingdom",BT Sport 2 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/368.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://195.154.221.171/picons/btsport2uk.png" group-title="United Kingdom",BT Sport 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/367.ts
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="BT Sport 3 HD UK" tvg-logo="http://195.154.221.171/picons/btsport3hduk.png" group-title="United Kingdom",BT Sport 3 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 UK" tvg-logo="http://195.154.221.171/picons/btsport3uk.png" group-title="United Kingdom",BT Sport 3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/365.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN HD UK" tvg-logo="http://195.154.221.171/picons/btsportespnhduk.png" group-title="United Kingdom",BT Sport ESPN HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1743.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://195.154.221.171/picons/btsportespnuk.png" group-title="United Kingdom",BT Sport ESPN UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1819.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://195.154.221.171/picons/btsportextra1uk.png" group-title="United Kingdom",BT Sport Extra 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1818.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://195.154.221.171/picons/btsportextra2uk.png" group-title="United Kingdom",BT Sport Extra 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1817.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://195.154.221.171/picons/btsportextra3uk.png" group-title="United Kingdom",BT Sport Extra 3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1816.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://195.154.221.171/picons/btsportextra4uk.png" group-title="United Kingdom",BT Sport Extra 4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1815.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://195.154.221.171/picons/btsportextra5uk.png" group-title="United Kingdom",BT Sport Extra 5 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1814.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Mosaic 2 UK" tvg-logo="http://195.154.221.171/picons/btsportuk.png" group-title="United Kingdom",BT Sport Mosaic 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1813.ts
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://195.154.221.171/picons/babytvuk.png" group-title="United Kingdom",Baby TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1852.ts
+#EXTINF:-1 tvg-id="Bike UK" tvg-name="Bike Channel UK" tvg-logo="http://195.154.221.171/picons/bikechanneluk.png" group-title="United Kingdom",Bike Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1893.ts
+#EXTINF:-1 tvg-id="Blaze UK" tvg-name="Blaze UK" tvg-logo="http://195.154.221.171/picons/blazeuk.png" group-title="United Kingdom",Blaze UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1787.ts
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://195.154.221.171/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1770.ts
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang +1 UK" tvg-logo="http://195.154.221.171/picons/boomerangplus1uk.png" group-title="United Kingdom",Boomerang +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1769.ts
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://195.154.221.171/picons/boomeranguk.png" group-title="United Kingdom",Boomerang UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1862.ts
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="http://195.154.221.171/picons/boxhitsuk.png" group-title="United Kingdom",Box Hits UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1768.ts
+#EXTINF:-1 tvg-id="BoxNation UK" tvg-name="BoxNation UK" tvg-logo="http://195.154.221.171/picons/boxnationuk.png" group-title="United Kingdom",BoxNation UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1805.ts
+#EXTINF:-1 tvg-id="Box Upfront UK" tvg-name="Box Upfront UK" tvg-logo="http://195.154.221.171/picons/boxupfrontuk.png" group-title="United Kingdom",Box Upfront UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1767.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://195.154.221.171/picons/eurosport1hduk.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1812.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://195.154.221.171/picons/eurosport2hduk.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1811.ts
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Action UK" tvg-logo="http://195.154.221.171/picons/cbsactionuk.png" group-title="United Kingdom",CBS Action UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1909.ts
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="CBS Drama UK" tvg-logo="http://195.154.221.171/picons/cbsdramauk.png" group-title="United Kingdom",CBS Drama UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1908.ts
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://195.154.221.171/picons/cbsrealityuk.png" group-title="United Kingdom",CBS Reality UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1910.ts
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies HD UK" tvg-logo="http://195.154.221.171/picons/cbeebieshduk.png" group-title="United Kingdom",CBeebies HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1741.ts
+#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://195.154.221.171/picons/citvuk.png" group-title="United Kingdom",CITV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1740.ts
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN FHD UK" tvg-logo="http://195.154.221.171/picons/cnnhduk.png" group-title="United Kingdom",CNN FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1780.ts
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://195.154.221.171/picons/cnnuk.png" group-title="United Kingdom",CNN UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1764.ts
+#EXTINF:-1 tvg-id="CAPITAL TV UK" tvg-name="CAPITAL TV UK" tvg-logo="http://195.154.221.171/picons/capitaltvuk.png" group-title="United Kingdom",CAPITAL TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1778.ts
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://195.154.221.171/picons/cartoonnetworkuk.png" group-title="United Kingdom",Cartoon Network UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1857.ts
+#EXTINF:-1 tvg-id="Cartoonito UK" tvg-name="Cartoonito UK" tvg-logo="http://195.154.221.171/picons/cartoonitouk.png" group-title="United Kingdom",Cartoonito UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1865.ts
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge +1 UK" tvg-logo="http://195.154.221.171/picons/challengeuk.png" group-title="United Kingdom",Challenge +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1944.ts
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://195.154.221.171/picons/challengeuk.png" group-title="United Kingdom",Challenge UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1782.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 FHD UK" tvg-logo="http://195.154.221.171/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1971.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 HD UK" tvg-logo="http://195.154.221.171/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1970.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://195.154.221.171/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1972.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 FHD UK" tvg-logo="http://195.154.221.171/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1969.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 HD UK" tvg-logo="http://195.154.221.171/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1967.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://195.154.221.171/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1968.ts
+#EXTINF:-1 tvg-id="Channel AKA UK" tvg-name="Channel AKA UK" tvg-logo="http://195.154.221.171/picons/channelakauk.png" group-title="United Kingdom",Channel AKA UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1945.ts
+#EXTINF:-1 tvg-id="Chart Show Dance UK" tvg-name="Chart Show Hits UK" tvg-logo="http://195.154.221.171/picons/chartshowhitsuk.png" group-title="United Kingdom",Chart Show Hits UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1766.ts
+#EXTINF:-1 tvg-id="Chart Show TV UK" tvg-name="Chart Show TV UK" tvg-logo="http://195.154.221.171/picons/chartshowtvuk.png" group-title="United Kingdom",Chart Show TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1765.ts
+#EXTINF:-1 tvg-id="Chelsea TV UK" tvg-name="Chelsea TV UK" tvg-logo="http://195.154.221.171/picons/chelseatvuk.png" group-title="United Kingdom",Chelsea TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1796.ts
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://195.154.221.171/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1894.ts
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://195.154.221.171/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1895.ts
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://195.154.221.171/picons/comedycentraluk.png" group-title="United Kingdom",Comedy Central UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1896.ts
+#EXTINF:-1 tvg-id="CrimeplusInvestigation UK" tvg-name="Crime+Investigation +1 UK" tvg-logo="http://195.154.221.171/picons/crimeplusinvestigationuk.png" group-title="United Kingdom",Crime+Investigation +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1880.ts
+#EXTINF:-1 tvg-id="CrimeplusInvestigation UK" tvg-name="Crime+Investigation UK" tvg-logo="http://195.154.221.171/picons/crimeplusinvestigationuk.png" group-title="United Kingdom",Crime+Investigation UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1881.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX +1 UK" tvg-logo="http://195.154.221.171/picons/dmaxuk.png" group-title="United Kingdom",DMAX +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1876.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://195.154.221.171/picons/dmaxuk.png" group-title="United Kingdom",DMAX UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1877.ts
+#EXTINF:-1 tvg-id="Dave ja vu UK" tvg-name="Dave ja vu UK" tvg-logo="http://195.154.221.171/picons/davejavuuk.png" group-title="United Kingdom",Dave ja vu UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1788.ts
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://195.154.221.171/picons/daveuk.png" group-title="United Kingdom",Dave UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1911.ts
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel +1 UK" tvg-logo="http://195.154.221.171/picons/discoverychanneluk.png" group-title="United Kingdom",Discovery Channel +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1887.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1872.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://195.154.221.171/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1873.ts
+#EXTINF:-1 tvg-id="Discovery Home and Health UK" tvg-name="Discovery Home & Health UK" tvg-logo="http://195.154.221.171/picons/discoveryhomeandhealthuk.png" group-title="United Kingdom",Discovery Home & Health UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1826.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1874.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://195.154.221.171/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1875.ts
+#EXTINF:-1 tvg-id="Discovery Shed UK" tvg-name="Discovery Shed UK" tvg-logo="http://195.154.221.171/picons/discoverysheduk.png" group-title="United Kingdom",Discovery Shed UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1885.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://195.154.221.171/picons/discoveryturbouk.png" group-title="United Kingdom",Discovery Turbo UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1884.ts
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://195.154.221.171/picons/discoverychanneluk.png" group-title="United Kingdom",Discovery Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1886.ts
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel +1 UK" tvg-logo="http://195.154.221.171/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1843.ts
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://195.154.221.171/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1844.ts
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior +1 UK" tvg-logo="http://195.154.221.171/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1762.ts
+#EXTINF:-1 tvg-id="Disney Junior UK" tvg-name="Disney Junior UK" tvg-logo="http://195.154.221.171/picons/disneyjunioruk.png" group-title="United Kingdom",Disney Junior UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1845.ts
+#EXTINF:-1 tvg-id="Disney XD UK" tvg-name="Disney XD +1 UK" tvg-logo="http://195.154.221.171/picons/disneyxduk.png" group-title="United Kingdom",Disney XD +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1847.ts
+#EXTINF:-1 tvg-id="Disney XD UK" tvg-name="Disney XD UK" tvg-logo="http://195.154.221.171/picons/disneyxduk.png" group-title="United Kingdom",Disney XD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1846.ts
+#EXTINF:-1 tvg-id="Drama UK" tvg-name="Drama UK" tvg-logo="http://195.154.221.171/picons/dramauk.png" group-title="United Kingdom",Drama UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1863.ts
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! +1 UK" tvg-logo="http://195.154.221.171/picons/euk.png" group-title="United Kingdom",E! +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1907.ts
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://195.154.221.171/picons/euk.png" group-title="United Kingdom",E! UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1934.ts
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 +1 UK" tvg-logo="http://195.154.221.171/picons/e4uk.png" group-title="United Kingdom",E4 +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1965.ts
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://195.154.221.171/picons/e4uk.png" group-title="United Kingdom",E4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1966.ts
+#EXTINF:-1 tvg-id="eir Sport 1 UK" tvg-name="eir Sport 1 UK" tvg-logo="http://195.154.221.171/picons/eirsport1uk.png" group-title="United Kingdom",eir Sport 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1804.ts
+#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="eir Sport 2 FHD UK" tvg-logo="http://195.154.221.171/picons/eirsport2hduk.png" group-title="United Kingdom",eir Sport 2 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1798.ts
+#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="eir Sport 2 UK" tvg-logo="http://195.154.221.171/picons/eirsport2uk.png" group-title="United Kingdom",eir Sport 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1803.ts
+#EXTINF:-1 tvg-id="" tvg-name="ETV 1 UK" tvg-logo="" group-title="United Kingdom",ETV 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1938.ts
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden +1 UK" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="United Kingdom",Eden +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1946.ts
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden UK" tvg-logo="http://195.154.221.171/picons/edenuk.png" group-title="United Kingdom",Eden UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1935.ts
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://195.154.221.171/picons/film4uk.png" group-title="United Kingdom",Film4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1830.ts
+#EXTINF:-1 tvg-id="Flava UK" tvg-name="Flava UK" tvg-logo="http://195.154.221.171/picons/flavauk.png" group-title="United Kingdom",Flava UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1761.ts
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network +1 UK" tvg-logo="http://195.154.221.171/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1941.ts
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://195.154.221.171/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1942.ts
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://195.154.221.171/picons/foxnewsuk.png" group-title="United Kingdom",FOX News UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1760.ts
+#EXTINF:-1 tvg-id="FOX UK" tvg-name="FOX+ UK" tvg-logo="http://195.154.221.171/picons/foxuk.png" group-title="United Kingdom",FOX+ UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1914.ts
+#EXTINF:-1 tvg-id="FOX UK" tvg-name="FOX UK" tvg-logo="http://195.154.221.171/picons/foxuk.png" group-title="United Kingdom",FOX UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1913.ts
+#EXTINF:-1 tvg-id="" tvg-name="Geo News PK" tvg-logo="http://195.154.221.171/picons/geonewspk.png" group-title="Pakistan",Geo News PK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1759.ts
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://195.154.221.171/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1758.ts
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://195.154.221.171/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1947.ts
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD UK" tvg-logo="http://195.154.221.171/picons/golduk.png" group-title="United Kingdom",GOLD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1915.ts
+#EXTINF:-1 tvg-id="Good Food UK" tvg-name="Good Food UK" tvg-logo="http://195.154.221.171/picons/goodfooduk.png" group-title="United Kingdom",Good Food UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1912.ts
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="H2 UK" tvg-logo="http://195.154.221.171/picons/h2uk.png" group-title="United Kingdom",H2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1871.ts
+#EXTINF:-1 tvg-id="Hillsong UK" tvg-name="Hillsong Channel UK" tvg-logo="http://195.154.221.171/picons/hillsongchanneluk.png" group-title="United Kingdom",Hillsong Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1757.ts
+#EXTINF:-1 tvg-id="History UK" tvg-name="History +1 UK" tvg-logo="http://195.154.221.171/picons/historyuk.png" group-title="United Kingdom",History +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1866.ts
+#EXTINF:-1 tvg-id="History UK" tvg-name="History UK" tvg-logo="http://195.154.221.171/picons/historyuk.png" group-title="United Kingdom",History UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1867.ts
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home +1 UK" tvg-logo="http://195.154.221.171/picons/homeuk.png" group-title="United Kingdom",Home +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1869.ts
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home UK" tvg-logo="http://195.154.221.171/picons/homeuk.png" group-title="United Kingdom",Home UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1870.ts
+#EXTINF:-1 tvg-id="Discovery Home and Health UK" tvg-name="Discovery Home & Health +1 UK" tvg-logo="http://195.154.221.171/picons/discoveryhomeandhealthuk.png" group-title="United Kingdom",Discovery Home & Health +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1868.ts
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel +1 UK" tvg-logo="http://195.154.221.171/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1926.ts
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://195.154.221.171/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1825.ts
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV +1 UK" tvg-logo="http://195.154.221.171/picons/itvplus1uk.png" group-title="United Kingdom",ITV +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1984.ts
+#EXTINF:-1 tvg-id="ITV HD UK" tvg-name="ITV FHD UK" tvg-logo="http://195.154.221.171/picons/itvhduk.png" group-title="United Kingdom",ITV FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1986.ts
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV UK" tvg-logo="http://195.154.221.171/picons/itvuk.png" group-title="United Kingdom",ITV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1985.ts
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 +1 UK" tvg-logo="http://195.154.221.171/picons/itv2plus1uk.png" group-title="United Kingdom",ITV2 +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1981.ts
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 FHD UK" tvg-logo="http://195.154.221.171/picons/itv2hduk.png" group-title="United Kingdom",ITV2 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1983.ts
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://195.154.221.171/picons/itv2uk.png" group-title="United Kingdom",ITV2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1982.ts
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 +1 UK" tvg-logo="http://195.154.221.171/picons/itv3plus1uk.png" group-title="United Kingdom",ITV3 +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1978.ts
+#EXTINF:-1 tvg-id="ITV3 HD UK" tvg-name="ITV3 FHD UK" tvg-logo="http://195.154.221.171/picons/itv3hduk.png" group-title="United Kingdom",ITV3 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1980.ts
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://195.154.221.171/picons/itv3uk.png" group-title="United Kingdom",ITV3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1979.ts
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 +1 UK" tvg-logo="http://195.154.221.171/picons/itv4plus1uk.png" group-title="United Kingdom",ITV4 +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1975.ts
+#EXTINF:-1 tvg-id="ITV4 HD UK" tvg-name="ITV4 FHD UK" tvg-logo="http://195.154.221.171/picons/itv4hduk.png" group-title="United Kingdom",ITV4 FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1977.ts
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://195.154.221.171/picons/itv4uk.png" group-title="United Kingdom",ITV4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1976.ts
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe +1 UK" tvg-logo="http://195.154.221.171/picons/itvbeplus1uk.png" group-title="United Kingdom",ITVBe +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1974.ts
+#EXTINF:-1 tvg-id="ITV Encore UK" tvg-name="ITV Encore +1 UK" tvg-logo="http://195.154.221.171/picons/itvencoreplus1uk.png" group-title="United Kingdom",ITV Encore +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1973.ts
+#EXTINF:-1 tvg-id="ITV Encore UK" tvg-name="ITV Encore UK" tvg-logo="http://195.154.221.171/picons/itvencoreuk.png" group-title="United Kingdom",ITV Encore UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1927.ts
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery +1 UK" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1882.ts
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1883.ts
+#EXTINF:-1 tvg-id="Kix UK" tvg-name="KIX +1 UK" tvg-logo="http://195.154.221.171/picons/kixuk.png" group-title="United Kingdom",KIX +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1755.ts
+#EXTINF:-1 tvg-id="Kix UK" tvg-name="KIX UK" tvg-logo="http://195.154.221.171/picons/kixuk.png" group-title="United Kingdom",KIX UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1756.ts
+#EXTINF:-1 tvg-id="Kerrang! TV UK" tvg-name="Kerrang! TV UK" tvg-logo="http://195.154.221.171/picons/kerrangtvuk.png" group-title="United Kingdom",Kerrang! TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1928.ts
+#EXTINF:-1 tvg-id="KISS UK" tvg-name="KISS UK" tvg-logo="http://195.154.221.171/picons/kissuk.png" group-title="United Kingdom",KISS UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1929.ts
+#EXTINF:-1 tvg-id="LFC TV UK" tvg-name="LFC TV UK" tvg-logo="http://195.154.221.171/picons/lfctvuk.png" group-title="United Kingdom",LFC TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1802.ts
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV +1 UK" tvg-logo="http://195.154.221.171/picons/mtvuk.png" group-title="United Kingdom",MTV +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1834.ts
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV 90's UK" tvg-logo="http://195.154.221.171/picons/mtv90suk.png" group-title="United Kingdom",MTV 90's UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1754.ts
+#EXTINF:-1 tvg-id="MTV Base UK" tvg-name="MTV Base UK" tvg-logo="http://195.154.221.171/picons/mtvbaseuk.png" group-title="United Kingdom",MTV Base UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1836.ts
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV Classic UK" tvg-logo="http://195.154.221.171/picons/mtvclassicuk.png" group-title="United Kingdom",MTV Classic UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1837.ts
+#EXTINF:-1 tvg-id="MTV Dance UK" tvg-name="MTV Dance UK" tvg-logo="http://195.154.221.171/picons/mtvdanceuk.png" group-title="United Kingdom",MTV Dance UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1838.ts
+#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="http://195.154.221.171/picons/mtvhitsuk.png" group-title="United Kingdom",MTV Hits UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1839.ts
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music UK" tvg-logo="http://195.154.221.171/picons/mtvmusicuk.png" group-title="United Kingdom",MTV Music UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1840.ts
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK" tvg-logo="http://195.154.221.171/picons/mtvuk.png" group-title="United Kingdom",MTV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1835.ts
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV FHD UK" tvg-logo="http://195.154.221.171/picons/mutvhduk.png" group-title="United Kingdom",MUTV FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1797.ts
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV HD UK" tvg-logo="http://195.154.221.171/picons/mutvhduk.png" group-title="United Kingdom",MUTV HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1810.ts
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV UK" tvg-logo="http://195.154.221.171/picons/mutvuk.png" group-title="United Kingdom",MUTV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1809.ts
+#EXTINF:-1 tvg-id="My5 UK" tvg-name="My5 UK" tvg-logo="http://195.154.221.171/picons/my5uk.png" group-title="United Kingdom",My5 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1789.ts
+#EXTINF:-1 tvg-id="Made In Bristol UK" tvg-name="Made In Bristol UK" tvg-logo="http://195.154.221.171/picons/madeinbristoluk.png" group-title="United Kingdom",Made In Bristol UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1949.ts
+#EXTINF:-1 tvg-id="Made In Cardiff UK" tvg-name="Made In Cardiff UK" tvg-logo="http://195.154.221.171/picons/madeincardiffuk.png" group-title="United Kingdom",Made In Cardiff UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1950.ts
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://195.154.221.171/picons/more4uk.png" group-title="United Kingdom",More4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1930.ts
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Motors TV UK" tvg-logo="http://195.154.221.171/picons/motorstvuk.png" group-title="United Kingdom",Motors TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1891.ts
+#EXTINF:-1 tvg-id="Movies 24 UK" tvg-name="Movies 24 UK" tvg-logo="http://195.154.221.171/picons/movies24uk.png" group-title="United Kingdom",Movies 24 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1829.ts
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="Movies4Men +1 UK" tvg-logo="http://195.154.221.171/picons/movies4menuk.png" group-title="United Kingdom",Movies4Men +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1828.ts
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="Movies4Men UK" tvg-logo="http://195.154.221.171/picons/movies4menuk.png" group-title="United Kingdom",Movies4Men UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1827.ts
+#EXTINF:-1 tvg-id="National Geographic UK" tvg-name="National Geographic UK" tvg-logo="http://195.154.221.171/picons/nationalgeographicuk.png" group-title="United Kingdom",National Geographic UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1888.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://195.154.221.171/picons/natgeowilduk.png" group-title="United Kingdom",Nat Geo Wild UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1889.ts
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Peppa UK" tvg-logo="http://195.154.221.171/picons/nickjrpeppauk.png" group-title="United Kingdom",Nick Jr. Peppa UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1753.ts
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://195.154.221.171/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1850.ts
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Too UK" tvg-logo="http://195.154.221.171/picons/nickjrtoouk.png" group-title="United Kingdom",Nick Jr. Too UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1848.ts
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. +1 UK" tvg-logo="http://195.154.221.171/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1849.ts
+#EXTINF:-1 tvg-id="NickToons UK" tvg-name="NickToons UK" tvg-logo="http://195.154.221.171/picons/nicktoonsuk.png" group-title="United Kingdom",NickToons UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1864.ts
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon +1 UK" tvg-logo="http://195.154.221.171/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1858.ts
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon UK" tvg-logo="http://195.154.221.171/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1859.ts
+#EXTINF:-1 tvg-id="PBS America UK" tvg-name="PBS America UK" tvg-logo="http://195.154.221.171/picons/pbsamericauk.png" group-title="United Kingdom",PBS America UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1791.ts
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick +1 UK" tvg-logo="http://195.154.221.171/picons/pickuk.png" group-title="United Kingdom",Pick +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1951.ts
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://195.154.221.171/picons/pickuk.png" group-title="United Kingdom",Pick UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1853.ts
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP +1 UK" tvg-logo="http://195.154.221.171/picons/popuk.png" group-title="United Kingdom",POP +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1751.ts
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP UK" tvg-logo="http://195.154.221.171/picons/popuk.png" group-title="United Kingdom",POP UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1752.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports FHD UK" tvg-logo="http://195.154.221.171/picons/premiersportshduk.png" group-title="United Kingdom",Premier Sports FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1807.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports UK" tvg-logo="http://195.154.221.171/picons/premiersportsuk.png" group-title="United Kingdom",Premier Sports UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1808.ts
+#EXTINF:-1 tvg-id="Psychic Today UK" tvg-name="Psychic Today UK" tvg-logo="http://195.154.221.171/picons/psychictodayuk.png" group-title="United Kingdom",Psychic Today UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1962.ts
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED +1 UK" tvg-logo="http://195.154.221.171/picons/questreduk.png" group-title="United Kingdom",QUEST RED +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1749.ts
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED UK" tvg-logo="http://195.154.221.171/picons/questreduk.png" group-title="United Kingdom",QUEST RED UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1750.ts
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://195.154.221.171/picons/questuk.png" group-title="United Kingdom",QUEST UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1890.ts
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT FHD UK" tvg-logo="http://195.154.221.171/picons/rthduk.png" group-title="United Kingdom",RT FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1779.ts
+#EXTINF:-1 tvg-id="RTE Jr UK" tvg-name="RTÉ Jr UK" tvg-logo="http://195.154.221.171/picons/rtejruk.png" group-title="United Kingdom",RTÉ Jr UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1854.ts
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RTÉ News Now UK" tvg-logo="http://195.154.221.171/picons/rtenewsnowuk.png" group-title="United Kingdom",RTÉ News Now UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1748.ts
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One HD UK" tvg-logo="http://195.154.221.171/picons/rteonehduk.png" group-title="United Kingdom",RTÉ One HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1933.ts
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One UK" tvg-logo="http://195.154.221.171/picons/rteoneuk.png" group-title="United Kingdom",RTÉ One UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1856.ts
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two HD UK" tvg-logo="http://195.154.221.171/picons/rtetwohduk.png" group-title="United Kingdom",RTÉ Two HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1932.ts
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two UK" tvg-logo="http://195.154.221.171/picons/rtetwouk.png" group-title="United Kingdom",RTÉ Two UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1855.ts
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://195.154.221.171/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1800.ts
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing FHD UK" tvg-logo="http://195.154.221.171/picons/racinghduk.png" group-title="United Kingdom",Racing FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1799.ts
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives +1 UK" tvg-logo="http://195.154.221.171/picons/reallivesuk.png" group-title="United Kingdom",Real Lives +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1952.ts
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives UK" tvg-logo="http://195.154.221.171/picons/reallivesuk.png" group-title="United Kingdom",Real Lives UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1939.ts
+#EXTINF:-1 tvg-id="Really UK" tvg-name="Really UK" tvg-logo="http://195.154.221.171/picons/reallyuk.png" group-title="United Kingdom",Really UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1940.ts
+#EXTINF:-1 tvg-id="" tvg-name="Redbul TV UK" tvg-logo="http://195.154.221.171/picons/redbulltvuk.png" group-title="United Kingdom",Redbul TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1784.ts
+#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://195.154.221.171/picons/s4cuk.png" group-title="United Kingdom",S4C UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1931.ts
+#EXTINF:-1 tvg-id="STV HD UK" tvg-name="STV FHD UK" tvg-logo="http://195.154.221.171/picons/stvhduk.png" group-title="United Kingdom",STV FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1987.ts
+#EXTINF:-1 tvg-id="Scuzz UK" tvg-name="Scuzz UK" tvg-logo="http://195.154.221.171/picons/scuzzuk.png" group-title="United Kingdom",Scuzz UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1747.ts
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="Sky 1 HD UK" tvg-logo="http://195.154.221.171/picons/sky1hduk.png" group-title="United Kingdom",Sky 1 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1920.ts
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="Sky 2 UK" tvg-logo="http://195.154.221.171/picons/sky2uk.png" group-title="United Kingdom",Sky 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1918.ts
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="Sky Arts UK" tvg-logo="http://195.154.221.171/picons/skyartsuk.png" group-title="United Kingdom",Sky Arts UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1917.ts
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="Sky Atlantic +1 UK" tvg-logo="http://195.154.221.171/picons/skyatlanticplus1uk.png" group-title="United Kingdom",Sky Atlantic +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1921.ts
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="Sky Atlantic UK" tvg-logo="http://195.154.221.171/picons/skyatlanticuk.png" group-title="United Kingdom",Sky Atlantic UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1922.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Box Office UK" tvg-logo="http://195.154.221.171/picons/skycinemaboxofficeuk.png" group-title="United Kingdom",Sky Box Office UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1806.ts
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-name="Sky Hits UK" tvg-logo="http://195.154.221.171/picons/skycinemahitsuk.png" group-title="United Kingdom",Sky Hits UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Oscars UK" tvg-logo="http://195.154.221.171/picons/skycinemaoscarsuk.png" group-title="United Kingdom",Sky Cinema Oscars UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1823.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="Sky Cinema Premiere +1 UK" tvg-logo="http://195.154.221.171/picons/skycinemapremiereplus1uk.png" group-title="United Kingdom",Sky Cinema Premiere +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1824.ts
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="Sky Living +1 UK" tvg-logo="http://195.154.221.171/picons/skylivingplus1uk.png" group-title="United Kingdom",Sky Living +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1923.ts
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="Sky Living UK" tvg-logo="http://195.154.221.171/picons/skylivinguk.png" group-title="United Kingdom",Sky Living UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1924.ts
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Cinema Action & Adventure UK" tvg-logo="http://195.154.221.171/picons/skycinemaactionandadventureuk.png" group-title="United Kingdom",Sky Cinema Action & Adventure UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/352.ts
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Cinema Action & Adventure HD UK" tvg-logo="http://195.154.221.171/picons/skycinemaactionandadventurehduk.png" group-title="United Kingdom",Sky Cinema Action & Adventure HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/351.ts
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy HD UK" tvg-logo="http://195.154.221.171/picons/skycinemacomedyhduk.png" group-title="United Kingdom",Sky Cinema Comedy HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/349.ts
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://195.154.221.171/picons/skycinemacomedyuk.png" group-title="United Kingdom",Sky Cinema Comedy UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/350.ts
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="Sky Cinema Crime & Thriller UK" tvg-logo="http://195.154.221.171/picons/skycinemacrimeandthrilleruk.png" group-title="United Kingdom",Sky Cinema Crime & Thriller UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/348.ts
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Cinema Disney HD UK" tvg-logo="http://195.154.221.171/picons/skycinemadisneyhduk.png" group-title="United Kingdom",Sky Cinema Disney HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/346.ts
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Cinema Disney UK" tvg-logo="http://195.154.221.171/picons/skycinemadisneyuk.png" group-title="United Kingdom",Sky Cinema Disney UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/347.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="Sky Cinema Drama & Romance UK" tvg-logo="http://195.154.221.171/picons/skycinemadramaandromanceuk.png" group-title="United Kingdom",Sky Cinema Drama & Romance UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/345.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Cinema Family HD UK" tvg-logo="http://195.154.221.171/picons/skycinemafamilyhduk.png" group-title="United Kingdom",Sky Cinema Family HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/343.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Cinema Family UK" tvg-logo="http://195.154.221.171/picons/skycinemafamilyuk.png" group-title="United Kingdom",Sky Cinema Family UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/344.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="Sky Cinema Greats UK" tvg-logo="http://195.154.221.171/picons/skycinemagreatsuk.png" group-title="United Kingdom",Sky Cinema Greats UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/342.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="Sky Cinema Premiere UK" tvg-logo="http://195.154.221.171/picons/skycinemapremiereuk.png" group-title="United Kingdom",Sky Cinema Premiere UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/341.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="http://195.154.221.171/picons/skycinemascifiandhorroruk.png" group-title="United Kingdom",Sky Cinema Sci-Fi & Horror UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/340.ts
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="Sky Cinema Select UK" tvg-logo="http://195.154.221.171/picons/skycinemaselectuk.png" group-title="United Kingdom",Sky Cinema Select UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/339.ts
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="Sky Cinema Crime & Thriller HD UK" tvg-logo="http://195.154.221.171/picons/skycinemacrimeandthrillerhduk.png" group-title="United Kingdom",Sky Cinema Crime & Thriller HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/338.ts
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="http://195.154.221.171/picons/skynewsuk.png" group-title="United Kingdom",Sky News UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1925.ts
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="Sky 1 UK" tvg-logo="http://195.154.221.171/picons/sky1uk.png" group-title="United Kingdom",Sky 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1919.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 HD UK" tvg-logo="http://195.154.221.171/picons/skysports1hduk.png" group-title="United Kingdom",Sky Sports 1 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/335.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 UK" tvg-logo="http://195.154.221.171/picons/skysports1uk.png" group-title="United Kingdom",Sky Sports 1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/376.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 HD UK" tvg-logo="http://195.154.221.171/picons/skysports2hduk.png" group-title="United Kingdom",Sky Sports 2 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/334.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 UK" tvg-logo="http://195.154.221.171/picons/skysports2uk.png" group-title="United Kingdom",Sky Sports 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/375.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 HD UK" tvg-logo="http://195.154.221.171/picons/skysports3hduk.png" group-title="United Kingdom",Sky Sports 3 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/333.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 UK" tvg-logo="http://195.154.221.171/picons/skysports3uk.png" group-title="United Kingdom",Sky Sports 3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/374.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 HD UK" tvg-logo="http://195.154.221.171/picons/skysports4hduk.png" group-title="United Kingdom",Sky Sports 4 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/332.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 UK" tvg-logo="http://195.154.221.171/picons/skysports4uk.png" group-title="United Kingdom",Sky Sports 4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/373.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 HD UK" tvg-logo="http://195.154.221.171/picons/skysports5hduk.png" group-title="United Kingdom",Sky Sports 5 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/331.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 UK" tvg-logo="http://195.154.221.171/picons/skysports5uk.png" group-title="United Kingdom",Sky Sports 5 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/372.ts
+#EXTINF:-1 tvg-id="Sky Sports Box Office UK" tvg-name="Sky Sports Box Office UK" tvg-logo="http://195.154.221.171/picons/skysportsboxofficeuk.png" group-title="United Kingdom",Sky Sports Box Office UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1820.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://195.154.221.171/picons/skysportsf1hduk.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/371.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 UK" tvg-logo="http://195.154.221.171/picons/skysportsf1uk.png" group-title="United Kingdom",Sky Sports F1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/337.ts
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://195.154.221.171/picons/skysportsmixhduk.png" group-title="United Kingdom",Sky Sports Mix HD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1821.ts
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HQ UK" tvg-logo="http://195.154.221.171/picons/skysportsnewshquk.png" group-title="United Kingdom",Sky Sports News HQ UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/336.ts
+#EXTINF:-1 tvg-id="Sony UK" tvg-name="Sony +1 UK" tvg-logo="http://195.154.221.171/picons/sonyuk.png" group-title="United Kingdom",Sony +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1943.ts
+#EXTINF:-1 tvg-id="Starz TV UK" tvg-name="Starz TV UK" tvg-logo="http://195.154.221.171/picons/starztvuk.png" group-title="United Kingdom",Starz TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1746.ts
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy +1 UK" tvg-logo="http://195.154.221.171/picons/syfyuk.png" group-title="United Kingdom",Syfy +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1899.ts
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy UK" tvg-logo="http://195.154.221.171/picons/syfyuk.png" group-title="United Kingdom",Syfy UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1900.ts
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM +1 UK" tvg-logo="http://195.154.221.171/picons/tcmuk.png" group-title="United Kingdom",TCM +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1954.ts
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM UK" tvg-logo="http://195.154.221.171/picons/tcmuk.png" group-title="United Kingdom",TCM UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1955.ts
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="http://195.154.221.171/picons/tg4uk.png" group-title="United Kingdom",TG4 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1793.ts
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC +1 UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="United Kingdom",TLC +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1902.ts
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC +2 UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="United Kingdom",TLC +2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1901.ts
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://195.154.221.171/picons/tlcuk.png" group-title="United Kingdom",TLC UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1903.ts
+#EXTINF:-1 tvg-id="tru TV UK" tvg-name="tru TV UK" tvg-logo="http://195.154.221.171/picons/trutvuk.png" group-title="United Kingdom",tru TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1956.ts
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 +1 UK" tvg-logo="http://195.154.221.171/picons/tv3plus1uk.png" group-title="United Kingdom",TV3 +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1957.ts
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 UK" tvg-logo="http://195.154.221.171/picons/tv3uk.png" group-title="United Kingdom",TV3 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1958.ts
+#EXTINF:-1 tvg-id="The Box UK" tvg-name="The Box UK" tvg-logo="http://195.154.221.171/picons/theboxuk.png" group-title="United Kingdom",The Box UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1745.ts
+#EXTINF:-1 tvg-id="The Vault UK" tvg-name="The Vault UK" tvg-logo="http://195.154.221.171/picons/thevaultuk.png" group-title="United Kingdom",The Vault UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1744.ts
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop +1 UK" tvg-logo="http://195.154.221.171/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1860.ts
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop UK" tvg-logo="http://195.154.221.171/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1861.ts
+#EXTINF:-1 tvg-id="Travel Channel UK" tvg-name="Travel Channel UK" tvg-logo="http://195.154.221.171/picons/travelchanneluk.png" group-title="United Kingdom",Travel Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1781.ts
+#EXTINF:-1 tvg-id="True Crime UK" tvg-name="True Crime +1 UK" tvg-logo="http://195.154.221.171/picons/truecrimeuk.png" group-title="United Kingdom",True Crime +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1832.ts
+#EXTINF:-1 tvg-id="True Crime UK" tvg-name="True Crime UK" tvg-logo="http://195.154.221.171/picons/truecrimeuk.png" group-title="United Kingdom",True Crime UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1833.ts
+#EXTINF:-1 tvg-id="True Entertainment UK" tvg-name="True Entertainment UK" tvg-logo="http://195.154.221.171/picons/trueentertainmentuk.png" group-title="United Kingdom",True Entertainment UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1783.ts
+#EXTINF:-1 tvg-id="True Movies 2 UK" tvg-name="True Movies 2 UK" tvg-logo="http://195.154.221.171/picons/truemovies2uk.png" group-title="United Kingdom",True Movies 2 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1831.ts
+#EXTINF:-1 tvg-id="UTV UK" tvg-name="UTV FHD UK" tvg-logo="http://195.154.221.171/picons/utvhduk.png" group-title="United Kingdom",UTV FHD UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1988.ts
+#EXTINF:-1 tvg-id="UTV UK" tvg-name="UTV UK" tvg-logo="http://195.154.221.171/picons/utvuk.png" group-title="United Kingdom",UTV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1959.ts
+#EXTINF:-1 tvg-id="Universal Channel UK" tvg-name="Universal Channel +1 UK" tvg-logo="http://195.154.221.171/picons/universalchanneluk.png" group-title="United Kingdom",Universal Channel +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1897.ts
+#EXTINF:-1 tvg-id="Universal Channel UK" tvg-name="Universal Channel UK" tvg-logo="http://195.154.221.171/picons/universalchanneluk.png" group-title="United Kingdom",Universal Channel UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1898.ts
+#EXTINF:-1 tvg-id="VH1 UK" tvg-name="VH1 UK" tvg-logo="http://195.154.221.171/picons/vh1uk.png" group-title="United Kingdom",VH1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1841.ts
+#EXTINF:-1 tvg-id="VIVA UK" tvg-name="VIVA UK" tvg-logo="http://195.154.221.171/picons/vivauk.png" group-title="United Kingdom",VIVA UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viceland UK" tvg-logo="http://195.154.221.171/picons/vicelanduk.png" group-title="United Kingdom",Viceland UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1953.ts
+#EXTINF:-1 tvg-id="Vintage TV UK" tvg-name="Vintage TV UK" tvg-logo="http://195.154.221.171/picons/vintagetvuk.png" group-title="United Kingdom",Vintage TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1960.ts
+#EXTINF:-1 tvg-id="W UK" tvg-name="W +1 UK" tvg-logo="http://195.154.221.171/picons/wuk.png" group-title="United Kingdom",W +1 UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1904.ts
+#EXTINF:-1 tvg-id="W UK" tvg-name="W UK" tvg-logo="http://195.154.221.171/picons/wuk.png" group-title="United Kingdom",W UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1905.ts
+#EXTINF:-1 tvg-id="" tvg-name="William Hill TV UK" tvg-logo="http://195.154.221.171/picons/williamhilltvuk.png" group-title="United Kingdom",William Hill TV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1772.ts
+#EXTINF:-1 tvg-id="YESTERDAY UK" tvg-name="YESTERDAY UK" tvg-logo="http://195.154.221.171/picons/yesterdayuk.png" group-title="United Kingdom",YESTERDAY UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1906.ts
+#EXTINF:-1 tvg-id="YourTV UK" tvg-name="YourTV UK" tvg-logo="http://195.154.221.171/picons/yourtvuk.png" group-title="United Kingdom",YourTV UK
+http://sekoiptv.ddns.net:8080/live/Xze2JVH5EX/1SSDdHZGfd/1785.ts
